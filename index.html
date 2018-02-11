@@ -167,6 +167,25 @@
 <div class="overlay"></div>
 <div class="state-indicator"></div>
 
+<script>
+    if(!(function () {
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        return flag;
+    }())){
+        alert("请在PC端浏览");
+        window.location.href="https://github.com/VanillaIceCreams/about-me/blob/gh-pages/README.md";
+    }
+</script>
 <script type="text/javascript" src="./js/jquery-1.9.1.min.js"></script>
 <script src="js/global.js"></script>
 
