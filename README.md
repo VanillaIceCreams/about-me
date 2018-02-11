@@ -36,7 +36,7 @@
 * 熟练掌握Java基础知识。
 * 熟悉SSM框架整合开发 或 Spring boot+mybatis。
 * 掌握Mysql以及Oracle的增删改查操作，对触发器、存储函数有初步了解。
-* 接触过Node.js(听说适合做IO，就写了个简单的聊天室)。
+* 接触过Node.js。
 * 阅读过《鸟哥的Linux私房菜》，对 Linux 有初步了解。
 * 对喜欢的事物抱有极大的兴趣，喜欢接触新事物。
 
@@ -44,9 +44,11 @@
 ## 个人项目
 1. 毕业设计制作了一个模拟分布式系统的简易商城系统，通过Maven构建聚合工程，每一个模块运行于单独的Tomcat服务器，模块之间通过Webservice/jsonp交互，框架方面采用SSM，数据库采用Mysql，以tomcat为servlet容器，nginx做静态文件服务器,redis做高速数据缓存（顺便拿来实现简单的单点登录）。前端页面则直接采用JSP模板技术，并未实现前后端分离。
 
-2. 作为React技术栈学习的阶段性测验，制作了一个个人博客，前端采用了React技术栈，以及Bluma(一个纯的CSS框架)。 后端使用spring boot+mybatis构建。本项目为单页应用通过react-router进行页面的跳转，实现了前后端分离，遵循Restful设计风格。前后端交互均采用ajax/json的形式。
+2. 作为React技术栈学习的阶段性测验，制作了一个个人博客，前端采用了React技术栈，以及Bluma(一个纯的CSS框架)。 后端使用spring boot+mybatis构建。本项目为单页应用，通过react-router进行页面的跳转，实现了前后端分离，遵循Restful设计风格。前后端交互均采用ajax/json的形式。
 
+3. 最初学习java SE的GUI和Thread时写过贪吃蛇和坦克大战，年代稍有久远。
 
+4. 学习过一段时间的Node.js,使用socket.io(node.js的一个websocket库)、express以及MongoDB写了一个在线聊天室。
 
 
 ## 联系方式
