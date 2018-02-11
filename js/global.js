@@ -141,7 +141,6 @@ Global.targetScrollTop = function(n){
     return ($(window).height() * (Global.section_num - 1));
 };
 //根据 CSS3 判断屏幕
-//原理：http://yujiangshui.com/use-javascript-css-media-queries-detect-device-state/
 Global.forRetina = function(){
 
     $('body').append('<div class="state-indicator"></div>');
@@ -325,11 +324,8 @@ $(document).on('mousewheel DOMMouseScroll', function(e){
         Global.scrollHandle(true);
 
     }else{
-
         Global.scrollHandle(false);
-
     }
-
     e.preventDefault();
 });
 
