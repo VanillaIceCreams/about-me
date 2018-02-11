@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a93b72-3e2e-4c00-8e82-ad7405d4da9d" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/me@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/works/game.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/works/hhxx.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/works/hk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/works/uucsr.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/avatar.jpg" afterPath="$PROJECT_DIR$/images/avatar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/avatar@2x.jpg" afterPath="$PROJECT_DIR$/images/avatar@2x.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/global.js" afterPath="$PROJECT_DIR$/js/global.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/custom.scss" afterPath="$PROJECT_DIR$/scss/custom.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/html-elements.scss" afterPath="$PROJECT_DIR$/scss/html-elements.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/var.scss" afterPath="$PROJECT_DIR$/scss/var.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="about-me.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.746051">
-              <caret line="125" column="68" selection-start-line="125" selection-start-column="68" selection-end-line="125" selection-end-column="68" />
+              <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#p#3;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -477,7 +460,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.746051">
-          <caret line="125" column="68" selection-start-line="125" selection-start-column="68" selection-end-line="125" selection-end-column="68" />
+          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#a#0;n#p#3;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
